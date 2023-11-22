@@ -12,7 +12,7 @@
   }
   
   header {
-    background-color: #333;
+    background-color: #333333;
     color: #fff;
     padding: 1rem;
     
@@ -64,7 +64,7 @@
   }
   
   button:hover {
-    background-color: #555;
+    background-color: #30aa0b;
   }
   
   /* Specific styles */
